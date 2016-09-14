@@ -1,1 +1,1 @@
-bash super.hs
+bash hw.sh
